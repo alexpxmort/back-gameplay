@@ -1,6 +1,8 @@
 # back-gameplay
 Um projeto nodejs
-Roda na branch master
+
+######
+Rode na branch master
 npm install ou yarn install
 no mysql rode estes comandos:
 
