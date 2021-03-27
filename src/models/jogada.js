@@ -1,3 +1,7 @@
+/**
+ * Modelo do banco de dados para salvar as informações das jogadas do jogador
+ */
+
 const {Model,DataTypes} = require('sequelize');
 
 class Jogada extends Model{

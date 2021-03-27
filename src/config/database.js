@@ -1,4 +1,7 @@
 
+/**
+ * Arquivo que cria um obejto baseado na nossa configuração do banco de dados
+ */
 
 const config = require("./dbsConf");
 module.exports ={

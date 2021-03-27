@@ -1,3 +1,6 @@
+/**
+ * Modelo do banco de dados para salvar as informações do jogador
+ */
 const {Model,DataTypes} = require('sequelize');
 
 class UserGamePlay extends Model{

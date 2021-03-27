@@ -1,4 +1,9 @@
 
+/**
+ *Arquivo que possui  a conexão com o banco de dados 
+ *
+ */
+
 
 const getConnections = () => {
       return {

@@ -1,3 +1,7 @@
+/***
+ * Classe uqe inicia com os middlewares e rotas para ser usada ao startar o servidor
+ */
+
 const express = require('express')
 const cors = require('cors')
 const routesIndex  = require('./routerIndex')

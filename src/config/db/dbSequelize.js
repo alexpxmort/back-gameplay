@@ -1,3 +1,6 @@
+/**
+ * Arquivo onde é feita a nossa configuração do sequelize com nosso banco de dados
+ */
 require('dotenv').config();
 
 const fs = require('fs');

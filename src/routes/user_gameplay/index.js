@@ -1,3 +1,8 @@
+/**
+ * Rotas com metódos a ser utilizados na rota gameplay
+ * Os Metódos permitidos sao GET E POST
+ */
+
 const express = require('express').Router();
 const UserController = require('../../controllers/UserController');
 

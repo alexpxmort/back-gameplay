@@ -1,3 +1,7 @@
+/**
+ * Arquivo onde é iniciado nosso servidor com a conexao com nosso banco de dados
+ */
+
 const app = require('./src/app')
 const connection = require('./src/database/index'); 
 

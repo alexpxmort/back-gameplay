@@ -1,3 +1,7 @@
+
+/**
+ * Arquivo onde starta a conexao do banco de Dados
+ */
 const Sequelize = require('sequelize');
 const DbConfig = require('../config/database');
 const Jogada = require('../models/jogada');

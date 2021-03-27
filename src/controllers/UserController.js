@@ -1,3 +1,7 @@
+/**
+ * Controller para ser usado nas rotas de criação de jogada e recuperação
+ */
+
 const Util = require('../utils/util');
 const UserGameplay = require('../models/user_gameplay');
 const Jogada = require('../models/jogada');
